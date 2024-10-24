@@ -18,7 +18,7 @@ def PararOuContinuar():
         print("Finalizando o programa!")
         return False
     else:
-        print("Opção inválida. Encerrando o programa.")
+        print("Opção inválida. Encerrando o programa!!! ")
         return False
 
 
